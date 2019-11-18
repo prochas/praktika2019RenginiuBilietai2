@@ -16,6 +16,8 @@ namespace RenginiuBilietai3
         Renginys Renginys2;
         Renginys Renginys3;
 
+        public int vartotojoId;
+
 
         public RenginiaiForm()
         {
@@ -89,7 +91,13 @@ namespace RenginiuBilietai3
         {
             BilietasForm bilietasForm = new BilietasForm();
             bilietasForm.setRenginioId(1);
+            bilietasForm.setVartotojoId(vartotojoId);
             bilietasForm.Show();
+        }
+
+        public void setVartotojoId(int id)
+        {
+            vartotojoId = id;
         }
     }
 }

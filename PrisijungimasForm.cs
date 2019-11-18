@@ -28,6 +28,7 @@ namespace RenginiuBilietai3
             {
                 this.Hide();
                 RenginiaiForm pagrindinis = new RenginiaiForm();
+                pagrindinis.setVartotojoId(vartotojas.PrisijungimoID);
                 pagrindinis.Show();
             }
 

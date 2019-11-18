@@ -67,6 +67,11 @@
             // 
             this.listBoxEile.FormattingEnabled = true;
             this.listBoxEile.ItemHeight = 20;
+            this.listBoxEile.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4"});
             this.listBoxEile.Location = new System.Drawing.Point(40, 195);
             this.listBoxEile.Name = "listBoxEile";
             this.listBoxEile.Size = new System.Drawing.Size(86, 104);
@@ -76,6 +81,11 @@
             // 
             this.listBoxVieta.FormattingEnabled = true;
             this.listBoxVieta.ItemHeight = 20;
+            this.listBoxVieta.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4"});
             this.listBoxVieta.Location = new System.Drawing.Point(196, 195);
             this.listBoxVieta.Name = "listBoxVieta";
             this.listBoxVieta.Size = new System.Drawing.Size(97, 104);

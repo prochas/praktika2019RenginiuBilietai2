@@ -10,7 +10,7 @@ namespace RenginiuBilietai3
 {
     abstract class Prisijungimas
     {
-        private int PrisijungimoID;
+        public int PrisijungimoID;
         private string VartotojoVardas;
         private string Slaptazodis;
         private bool Ijungtas;
@@ -40,6 +40,10 @@ namespace RenginiuBilietai3
 
             if (table.Rows.Count > 0)
             {
+                DataRow row = table.Rows[0];
+
+                PrisijungimoID = Convert.ToInt32(row["id"].ToString());
+
                 return true;
                 //
 
