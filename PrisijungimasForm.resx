@@ -117,23 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="b2b6e18616a5da264d3ef480fe44acbf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b2b6e18616a5da264d3ef480fe44acbf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="9dec5a91228aa94038cc14e7a173f7e3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\9dec5a91228aa94038cc14e7a173f7e3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="86431588546bde781ab6527abfd83afc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\86431588546bde781ab6527abfd83afc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tickets" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tickets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="e34ed31b7f8b84f6cb74a37d29cebaa6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e34ed31b7f8b84f6cb74a37d29cebaa6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="b0792eb9673f879d1eec7e925378fd31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\b0792eb9673f879d1eec7e925378fd31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

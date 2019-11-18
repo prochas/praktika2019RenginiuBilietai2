@@ -83,6 +83,16 @@ namespace RenginiuBilietai3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap b0792eb9673f879d1eec7e925378fd31 {
+            get {
+                object obj = ResourceManager.GetObject("b0792eb9673f879d1eec7e925378fd31", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap b2b6e18616a5da264d3ef480fe44acbf {
             get {
                 object obj = ResourceManager.GetObject("b2b6e18616a5da264d3ef480fe44acbf", resourceCulture);

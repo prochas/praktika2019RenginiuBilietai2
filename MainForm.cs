@@ -30,7 +30,7 @@ namespace RenginiuBilietai3
         private void labelAtsijungti_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 form1 = new Form1();
+            PrisijungimasForm form1 = new PrisijungimasForm();
             form1.Show();
         }
 

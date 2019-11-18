@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RenginiuBilietai3
 {
-    public partial class Aprasymas1 : UserControl
+    public partial class Aprasymas1Bak : UserControl
     {
-        public Aprasymas1()
+        public Aprasymas1Bak()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace RenginiuBilietai3
         private void Aprasymas1_Load(object sender, EventArgs e)
         {
             
+        }
+        
+        public void setAprasymas(string aprasymas)
+        {
+            labelAprasymas.Text = aprasymas;
         }
     }
 }

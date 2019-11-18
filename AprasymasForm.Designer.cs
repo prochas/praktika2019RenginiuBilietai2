@@ -1,13 +1,13 @@
 ﻿namespace RenginiuBilietai3
 {
-    partial class Aprasymas1
+    partial class AprasymasForm
     {
-        /// <summary> 
+        /// <summary>
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary> 
+        /// <summary>
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
@@ -20,34 +20,34 @@
             base.Dispose(disposing);
         }
 
-        #region Component Designer generated code
+        #region Windows Form Designer generated code
 
-        /// <summary> 
-        /// Required method for Designer support - do not modify 
+        /// <summary>
+        /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelAprasymas = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // label1
+            // labelAprasymas
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(455, 20);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 20);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Aprasymas";
+            this.labelAprasymas.AutoSize = true;
+            this.labelAprasymas.Location = new System.Drawing.Point(418, 140);
+            this.labelAprasymas.Name = "labelAprasymas";
+            this.labelAprasymas.Size = new System.Drawing.Size(65, 20);
+            this.labelAprasymas.TabIndex = 0;
+            this.labelAprasymas.Text = "Tekstas";
             // 
-            // Aprasymas1
+            // AprasymasForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.label1);
-            this.Name = "Aprasymas1";
-            this.Size = new System.Drawing.Size(1062, 416);
-            this.Load += new System.EventHandler(this.Aprasymas1_Load);
+            this.ClientSize = new System.Drawing.Size(970, 462);
+            this.Controls.Add(this.labelAprasymas);
+            this.Name = "AprasymasForm";
+            this.Text = "AprasymasForm";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -55,6 +55,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelAprasymas;
     }
 }

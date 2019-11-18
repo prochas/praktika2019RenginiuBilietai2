@@ -1,6 +1,6 @@
 ﻿namespace RenginiuBilietai3
 {
-    partial class Form1
+    partial class PrisijungimasForm
     {
         /// <summary>
         /// Required designer variable.

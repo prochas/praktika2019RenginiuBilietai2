@@ -1,7 +1,6 @@
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\bin\Debug\RenginiuBilietai3.exe.config
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\bin\Debug\RenginiuBilietai3.exe
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\bin\Debug\RenginiuBilietai3.pdb
-C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Form1.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Properties.Resources.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.csproj.GenerateResource.cache
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.exe
@@ -14,5 +13,9 @@ C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\bin\Debug\My
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.csproj.CopyComplete
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.MainForm.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Registration.resources
-C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Aprasymas1.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.csprojAssemblyReference.cache
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.PrisijungimasForm.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.RenginiaiForm.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Aprasymas1Bak.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.AprasymasForm.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.BilietasForm.resources

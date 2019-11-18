@@ -212,7 +212,7 @@ namespace RenginiuBilietai3
         private void label2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 prisijungimas = new Form1();
+            PrisijungimasForm prisijungimas = new PrisijungimasForm();
             prisijungimas.Show();
         }
     }
