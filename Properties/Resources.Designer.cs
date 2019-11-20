@@ -63,6 +63,76 @@ namespace RenginiuBilietai3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0836cac8ec90f2f06f9f9f4fabd266f6 {
+            get {
+                object obj = ResourceManager.GetObject("0836cac8ec90f2f06f9f9f4fabd266f6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _09ce6b47d7b5ae8e39e1ca9fa9abff4f {
+            get {
+                object obj = ResourceManager.GetObject("09ce6b47d7b5ae8e39e1ca9fa9abff4f", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1fcb0ce1d3a1d1052c7459b62b07b180 {
+            get {
+                object obj = ResourceManager.GetObject("1fcb0ce1d3a1d1052c7459b62b07b180", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4aa56e39f9621f68bbc8abf8a3773219 {
+            get {
+                object obj = ResourceManager.GetObject("4aa56e39f9621f68bbc8abf8a3773219", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4f0d5bd425a594fa9cfd8098cb8f6f53 {
+            get {
+                object obj = ResourceManager.GetObject("4f0d5bd425a594fa9cfd8098cb8f6f53", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _706a0b642018de341c26abd9c35f2e09 {
+            get {
+                object obj = ResourceManager.GetObject("706a0b642018de341c26abd9c35f2e09", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _76579c9cd6fcb268873d2d7454ac5e02 {
+            get {
+                object obj = ResourceManager.GetObject("76579c9cd6fcb268873d2d7454ac5e02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _86431588546bde781ab6527abfd83afc {
             get {
                 object obj = ResourceManager.GetObject("86431588546bde781ab6527abfd83afc", resourceCulture);
@@ -83,6 +153,16 @@ namespace RenginiuBilietai3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ab5bd1a2a8119e090dd9ebc42ae358a6 {
+            get {
+                object obj = ResourceManager.GetObject("ab5bd1a2a8119e090dd9ebc42ae358a6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap b0792eb9673f879d1eec7e925378fd31 {
             get {
                 object obj = ResourceManager.GetObject("b0792eb9673f879d1eec7e925378fd31", resourceCulture);
@@ -96,6 +176,16 @@ namespace RenginiuBilietai3.Properties {
         internal static System.Drawing.Bitmap b2b6e18616a5da264d3ef480fe44acbf {
             get {
                 object obj = ResourceManager.GetObject("b2b6e18616a5da264d3ef480fe44acbf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap back_24838_1280 {
+            get {
+                object obj = ResourceManager.GetObject("back-24838_1280", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

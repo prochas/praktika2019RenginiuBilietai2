@@ -34,9 +34,10 @@
             // labelAprasymas
             // 
             this.labelAprasymas.AutoSize = true;
-            this.labelAprasymas.Location = new System.Drawing.Point(418, 140);
+            this.labelAprasymas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelAprasymas.Location = new System.Drawing.Point(34, 51);
             this.labelAprasymas.Name = "labelAprasymas";
-            this.labelAprasymas.Size = new System.Drawing.Size(65, 20);
+            this.labelAprasymas.Size = new System.Drawing.Size(81, 22);
             this.labelAprasymas.TabIndex = 0;
             this.labelAprasymas.Text = "Tekstas";
             // 

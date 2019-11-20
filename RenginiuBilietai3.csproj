@@ -66,6 +66,12 @@
       <DependentUpon>BilietasForm.cs</DependentUpon>
     </Compile>
     <Compile Include="DB.cs" />
+    <Compile Include="KrepselisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KrepselisForm.Designer.cs">
+      <DependentUpon>KrepselisForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="PrisijungimasForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +99,12 @@
     <Compile Include="RenginiaiForm.Designer.cs">
       <DependentUpon>RenginiaiForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="RenginiaiFormSportas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenginiaiFormSportas.Designer.cs">
+      <DependentUpon>RenginiaiFormSportas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Renginys.cs" />
     <Compile Include="User.cs" />
     <EmbeddedResource Include="Aprasymas1Bak.resx">
@@ -103,6 +115,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BilietasForm.resx">
       <DependentUpon>BilietasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KrepselisForm.resx">
+      <DependentUpon>KrepselisForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PrisijungimasForm.resx">
       <DependentUpon>PrisijungimasForm.cs</DependentUpon>
@@ -125,6 +140,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RenginiaiForm.resx">
       <DependentUpon>RenginiaiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenginiaiFormSportas.resx">
+      <DependentUpon>RenginiaiFormSportas.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -156,6 +174,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\b0792eb9673f879d1eec7e925378fd31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\76579c9cd6fcb268873d2d7454ac5e02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4aa56e39f9621f68bbc8abf8a3773219.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ab5bd1a2a8119e090dd9ebc42ae358a6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09ce6b47d7b5ae8e39e1ca9fa9abff4f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1fcb0ce1d3a1d1052c7459b62b07b180.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4f0d5bd425a594fa9cfd8098cb8f6f53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0836cac8ec90f2f06f9f9f4fabd266f6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\706a0b642018de341c26abd9c35f2e09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-24838_1280.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

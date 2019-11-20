@@ -45,8 +45,7 @@ namespace RenginiuBilietai3
                 PrisijungimoID = Convert.ToInt32(row["id"].ToString());
 
                 return true;
-                //
-
+                
             }
            
             return false;

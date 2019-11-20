@@ -95,9 +95,61 @@ namespace RenginiuBilietai3
             bilietasForm.Show();
         }
 
+       
+
+        private void RenginiaiForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelRenginys1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBoxPirkti2_Click(object sender, EventArgs e)
+        {
+            BilietasForm bilietasForm = new BilietasForm();
+            bilietasForm.setRenginioId(2);
+            bilietasForm.setVartotojoId(vartotojoId);
+            bilietasForm.Show();
+        }
+
+        private void pictureBoxPirkti3_Click(object sender, EventArgs e)
+        {
+            BilietasForm bilietasForm = new BilietasForm();
+            bilietasForm.setRenginioId(3);
+            bilietasForm.setVartotojoId(vartotojoId);
+            bilietasForm.Show();
+        }
+
         public void setVartotojoId(int id)
         {
             vartotojoId = id;
+        }
+
+        private void buttonSportas_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            RenginiaiFormSportas renginiaiSportas = new RenginiaiFormSportas();
+            renginiaiSportas.Show();
+
+        }
+
+        private void buttonTeatras_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            MainForm pagrindinisForm = new MainForm();
+
+            pagrindinisForm.Show();
+
         }
     }
 }

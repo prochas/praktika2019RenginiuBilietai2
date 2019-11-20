@@ -19,3 +19,5 @@ C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\Re
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.Aprasymas1Bak.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.AprasymasForm.resources
 C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.BilietasForm.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.RenginiaiFormSportas.resources
+C:\Users\tomun\OneDrive\Desktop\RenginiuBilietai3\RenginiuBilietai3\obj\Debug\RenginiuBilietai3.KrepselisForm.resources

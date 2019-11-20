@@ -14,6 +14,8 @@ namespace RenginiuBilietai3
     public partial class PrisijungimasForm : Form
     {
 
+        public int vartotojoId;
+
         public PrisijungimasForm()
         {
             InitializeComponent();
@@ -24,10 +26,10 @@ namespace RenginiuBilietai3
 
             User vartotojas = new User();
             bool loggedIn = vartotojas.Login(textBoxPavadinimas.Text, textBoxSlaptazodis.Text);
-            if(loggedIn)
+            if (loggedIn)
             {
                 this.Hide();
-                RenginiaiForm pagrindinis = new RenginiaiForm();
+                MainForm pagrindinis = new MainForm();
                 pagrindinis.setVartotojoId(vartotojas.PrisijungimoID);
                 pagrindinis.Show();
             }
